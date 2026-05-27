@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggervtringify",
+        "uuid": 5747016,
+        "checksum": "4yxl6s"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
